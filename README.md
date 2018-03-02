@@ -18,8 +18,8 @@ $ sudo nohup python lxe_automatic_control.py & # 起動→「+suspend」で動�
 $ ps aux | grep lxe_automatic_control # プロセスが動いているかどうか確認
 $ sudo kill プロセス番号  # プロセスを終了する場合
 ```
-![起動＆プロセス確認](lxe_command.jpg)
-![プロセス確認](lxe_command2.jpg)
+![起動＆プロセス確認](lxe_command.png)
+![プロセス確認](lxe_command2.png)
 ## Author
 
 [key20171012](https://github.com/key20171012)
